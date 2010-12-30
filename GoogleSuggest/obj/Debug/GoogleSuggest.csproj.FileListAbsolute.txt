@@ -1,0 +1,9 @@
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\bin\Debug\GoogleSuggest.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\bin\Debug\GoogleSuggest.pdb
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\bin\Debug\nunit.framework.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\bin\Debug\RestSharp.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\bin\Debug\Newtonsoft.Json.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\bin\Debug\nunit.framework.xml
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\obj\Debug\GoogleSuggest.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GoogleSuggest\GoogleSuggest\obj\Debug\GoogleSuggest.pdb
