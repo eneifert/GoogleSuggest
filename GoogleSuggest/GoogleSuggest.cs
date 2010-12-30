@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 using RestSharp;
 
+//Written by Eric Neifert
+
 namespace GoogleSuggest
 {
     public class GoogleSuggest
